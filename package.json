@@ -1,0 +1,19 @@
+{
+  "name": "iedriverserver_x64_4.0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prueba3.spec.js",
+  "scripts": {
+    "test": "mocha prueba3.spec.js",
+    "init": "node prueba3.spec.js",
+    "start": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^97.0.0",
+    "mocha": "^9.1.4",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
